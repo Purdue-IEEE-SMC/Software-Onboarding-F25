@@ -1,6 +1,8 @@
-pandas
-numpy
-matplotlib
-torch
-scikit-learn
-scipy
+pandas # data loading and transforming
+numpy # numerical operations
+matplotlib # visualizing and plotting data
+torch # deep learning
+scikit-learn # classical ml and ml utility 
+scipy # sciency stuff!!!
+ipython # for jupyter notebook support
+ipykernel # for jupyter notebook support
